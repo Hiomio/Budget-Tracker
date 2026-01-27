@@ -10,14 +10,6 @@
 <img src='./demo/img.jpg'> 
 <hr>
 
-## Checkout this YouTube Video 👇
-
-[![Check This YouTube Video](./demo/img.jpg)](https://www.youtube.com/watch?v=w9lVl3qwkwE)
-
-
-## Try out the app: [BudgetTracker](https://trackmybudget.netlify.app/)
-
-Code For Backend : https://github.com/theshubhagrwl/budget-tracker-django
 
 > Note: The App may work little slowly due to the free tier limitation of heroku. Sorry for that 😢
 
