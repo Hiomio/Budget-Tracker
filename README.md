@@ -26,5 +26,3 @@
 #### Check out the app and provide your valuable feedback😉
 
 <br>
-
-### Checkout my website: http://theshubhagrwl.netlify.app/
