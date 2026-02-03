@@ -1,11 +1,7 @@
 # <img src='./public/calculations.png' width='30px'> Budget Tracker App (FullStack)
 
 ## A Full Stack App Made with React & Django
-
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/theshubhagrwl?style=social)](https://www.reddit.com/user/theshubhagrwl)
-[![Github](https://img.shields.io/github/followers/theshubhagrwl?style=social)](https://github.com/theshubhagrwl)
-[![Twitter](https://img.shields.io/twitter/follow/theshubhagrwl?label=Follow)](https://twitter.com/theshubhagrwl)
-
+[![Github](https://img.shields.io/github/followers/theshubhagrwl?style=social)](https://github.com/Hiomio)
 <hr>
 <img src='./demo/img.jpg'> 
 <hr>
