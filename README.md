@@ -1,7 +1,6 @@
 # <img src='./public/calculations.png' width='30px'> Budget Tracker App (FullStack)
 
 ## A Full Stack App Made with React & Django
-[![Github](https://img.shields.io/github/followers/theshubhagrwl?style=social)](https://github.com/Hiomio)
 <hr>
 <img src='./demo/img.jpg'> 
 <hr>
